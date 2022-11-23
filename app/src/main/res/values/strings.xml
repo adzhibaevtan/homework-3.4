@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HW-3.4</string>
+    <string name="capital">capital</string>
+    <string name="capital_name">Capital :</string>
+    <string name="country_name">Country :</string>
+    <string name="no_found">No found</string>
+
+</resources>
